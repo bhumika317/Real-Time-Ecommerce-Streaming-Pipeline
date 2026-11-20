@@ -1,0 +1,102 @@
+[
+    {
+        "event_id": "E20188",
+        "order_id": "O1308",
+        "customer_id": "C893",
+        "event_type": "ORDER_DELIVERED",
+        "product": "Watch",
+        "amount": 2604.59,
+        "city": "Hyderabad",
+        "event_timestamp": "2026-11-20T11:19:07.850460"
+    },
+    {
+        "event_id": "E14298",
+        "order_id": "O9412",
+        "customer_id": "C707",
+        "event_type": "ORDER_PLACED",
+        "product": "Watch",
+        "amount": 6386.65,
+        "city": "Chennai",
+        "event_timestamp": "2026-11-20T11:19:08.851642"
+    },
+    {
+        "event_id": "E15672",
+        "order_id": "O2085",
+        "customer_id": "C408",
+        "event_type": "ORDER_PLACED",
+        "product": "Laptop",
+        "amount": 39227.36,
+        "city": "Delhi",
+        "event_timestamp": "2026-11-20T11:19:09.851990"
+    },
+    {
+        "event_id": "E36922",
+        "order_id": "O4277",
+        "customer_id": "C289",
+        "event_type": "ORDER_SHIPPED",
+        "product": "Laptop",
+        "amount": 4993.58,
+        "city": "Chennai",
+        "event_timestamp": "2026-11-20T11:19:10.852366"
+    },
+    {
+        "event_id": "E85989",
+        "order_id": "O6698",
+        "customer_id": "C460",
+        "event_type": "ORDER_PACKED",
+        "product": "Tablet",
+        "amount": 39149.71,
+        "city": "Delhi",
+        "event_timestamp": "2026-11-20T11:19:11.852881"
+    },
+    {
+        "event_id": "E41696",
+        "order_id": "O9272",
+        "customer_id": "C683",
+        "event_type": "ORDER_PLACED",
+        "product": "Laptop",
+        "amount": 41069.53,
+        "city": "Hyderabad",
+        "event_timestamp": "2026-11-20T11:19:12.853269"
+    },
+    {
+        "event_id": "E79315",
+        "order_id": "O4555",
+        "customer_id": "C832",
+        "event_type": "ORDER_PACKED",
+        "product": "Headphones",
+        "amount": 9002.79,
+        "city": "Delhi",
+        "event_timestamp": "2026-11-20T11:19:13.853681"
+    },
+    {
+        "event_id": "E10567",
+        "order_id": "O2616",
+        "customer_id": "C319",
+        "event_type": "ORDER_CANCELLED",
+        "product": "Watch",
+        "amount": 18639.92,
+        "city": "Delhi",
+        "event_timestamp": "2026-11-20T11:19:14.854087"
+    },
+    {
+        "event_id": "E34264",
+        "order_id": "O8203",
+        "customer_id": "C789",
+        "event_type": "ORDER_PLACED",
+        "product": "Mobile",
+        "amount": 41819.74,
+        "city": "Mumbai",
+        "event_timestamp": "2026-11-20T11:19:15.854676"
+    },
+    {
+        "event_id": "E65586",
+        "order_id": "O4510",
+        "customer_id": "C626",
+        "event_type": "ORDER_PACKED",
+        "product": "Watch",
+        "amount": 6085.85,
+        "city": "Chennai",
+        "event_timestamp": "2026-11-20T11:19:16.855068"
+    }
+]

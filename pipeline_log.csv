@@ -1,0 +1,2 @@
+pipeline_name,execution_time,incoming_events,valid_events,processed_events,rejected_events,duplicate_events,status
+E-Commerce Streaming Pipeline,2026-11-20 11:25:35.584552,10,10,10,0,0,SUCCESS
